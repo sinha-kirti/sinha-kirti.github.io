@@ -1,2 +1,2 @@
 # sinha-kirti.github.io
-An attempt towards web designing
+My portfolio and trying my hands in web designing
